@@ -19,21 +19,11 @@ Mean adalah jumlah seluruh nilai dalam data dibagi dengan jumlah data.
 
 **Rumus:**
 
-\[
-\text{Mean} = \frac{\sum x_i}{n}
-\]
+![image](https://github.com/user-attachments/assets/20c6b5cc-fd75-4281-a974-8ce0ef7b0353)
 
-di mana:
-- \( x_i \) = nilai data ke-i  
-- \( n \) = jumlah total data
 
 **Contoh:**
 
-Jika lima orang memiliki penghasilan: 3, 4, 5, 6, dan 7 juta:
-
-\[
-\text{Mean} = \frac{3 + 4 + 5 + 6 + 7}{5} = \frac{25}{5} = 5 \text{ juta}
-\]
 
 **Catatan:**  
 Mean sangat **sensitif terhadap outlier** (nilai yang sangat tinggi atau sangat rendah).
