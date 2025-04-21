@@ -21,9 +21,7 @@ Dalam analisis data, terkadang kita ingin mengetahui hubungan antara dua variabe
 
 ### 📈 Ilustrasi Korelasi
 
-| Korelasi Positif (+1) | Korelasi Negatif (-1) |
-|-----------------------|-----------------------|
-| ![Positive Correlation](https://i.imgur.com/7In8vAm.png) | ![Negative Correlation](https://i.imgur.com/2jU57Jz.png) |
+![image](https://github.com/user-attachments/assets/b2c30921-d00c-4df7-a1c8-ebb6331cf83a)
 
 > *Sumber ilustrasi: Diolah dari contoh umum dalam statistik*
 
@@ -32,12 +30,8 @@ Dalam analisis data, terkadang kita ingin mengetahui hubungan antara dua variabe
 ### ✅ Rumus Korelasi
 
 Rumus untuk menghitung korelasi adalah sebagai berikut:
-\[
-r = \frac{\sum{(X_i - \bar{X})(Y_i - \bar{Y})}}{\sqrt{\sum{(X_i - \bar{X})^2}\sum{(Y_i - \bar{Y})^2}}}
-\]
-Dimana:
-- \( X_i \) dan \( Y_i \) adalah nilai individu dari variabel X dan Y
-- \( \bar{X} \) dan \( \bar{Y} \) adalah rata-rata variabel X dan Y
+![image](https://github.com/user-attachments/assets/cd64f636-6f2d-40c4-91bf-bb9adea4ad6d)
+
 
 ---
 
@@ -56,13 +50,8 @@ Namun, **kekurangan utama kovarians** adalah bahwa nilai kovarians bergantung pa
 ### 🧮 Rumus Kovarians
 
 Rumus untuk menghitung kovarians antara dua variabel X dan Y adalah sebagai berikut:
-\[
-\text{Kovarians}(X, Y) = \frac{\sum{(X_i - \bar{X})(Y_i - \bar{Y})}}{n-1}
-\]
-Dimana:
-- \( X_i \) dan \( Y_i \) adalah nilai individu dari variabel X dan Y
-- \( \bar{X} \) dan \( \bar{Y} \) adalah rata-rata variabel X dan Y
-- \( n \) adalah jumlah data
+![image](https://github.com/user-attachments/assets/bdeb4fb6-a743-41c7-91b9-5c97d60fc3c8)
+
 
 ---
 
