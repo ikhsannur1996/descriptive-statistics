@@ -20,20 +20,8 @@ Dengan kata lain, dua kumpulan data bisa memiliki **mean yang sama**, tetapi **p
 Range adalah **selisih antara nilai maksimum dan minimum** dalam data.
 
 **Rumus:**  
-\[
-\text{Range} = \text{Nilai Maksimum} - \text{Nilai Minimum}
-\]
+![image](https://github.com/user-attachments/assets/173fabdf-9796-4762-b8cc-12f84a419c59)
 
-**Contoh:**  
-Data: 3, 7, 8, 10, 15  
-\[
-\text{Range} = 15 - 3 = 12
-\]
-
-**Kelebihan:**  
-- Mudah dihitung  
-**Kekurangan:**  
-- Sangat sensitif terhadap **outlier**
 
 ---
 
@@ -43,19 +31,8 @@ Data: 3, 7, 8, 10, 15
 IQR adalah **selisih antara kuartil ketiga (Q3) dan kuartil pertama (Q1)**, yang menunjukkan rentang tengah 50% data.
 
 **Rumus:**  
-\[
-\text{IQR} = Q3 - Q1
-\]
+![image](https://github.com/user-attachments/assets/7ca23540-1751-45f4-8ba2-c3dd6091cace)
 
-**Contoh:**  
-Jika Q1 = 4 dan Q3 = 12, maka:
-\[
-\text{IQR} = 12 - 4 = 8
-\]
-
-**Keunggulan:**  
-- Tidak terpengaruh oleh outlier  
-- Lebih representatif dibanding Range
 
 ---
 
@@ -65,24 +42,8 @@ Jika Q1 = 4 dan Q3 = 12, maka:
 Variance mengukur rata-rata dari kuadrat selisih antara setiap nilai data dan mean-nya.
 
 **Rumus untuk sampel:**
+![image](https://github.com/user-attachments/assets/f3084605-105a-4715-9f29-de2e22283c96)
 
-\[
-s^2 = \frac{\sum (x_i - \bar{x})^2}{n - 1}
-\]
-
-di mana:  
-- \(x_i\) = nilai data ke-i  
-- \(\bar{x}\) = mean  
-- \(n\) = jumlah data  
-
-**Contoh sederhana:**  
-Jika data = 2, 4, 6 (mean = 4):  
-\[
-s^2 = \frac{(2 - 4)^2 + (4 - 4)^2 + (6 - 4)^2}{3 - 1} = \frac{4 + 0 + 2^2}{2} = \frac{8}{2} = 4
-\]
-
-**Kelemahan:**  
-- Nilainya dalam satuan **kuadrat**, sehingga sulit diinterpretasikan secara langsung
 
 ---
 
@@ -92,20 +53,8 @@ s^2 = \frac{(2 - 4)^2 + (4 - 4)^2 + (6 - 4)^2}{3 - 1} = \frac{4 + 0 + 2^2}{2} = 
 Standard deviation adalah **akar kuadrat dari variance**. Ukuran ini menunjukkan **seberapa besar penyimpangan rata-rata data terhadap mean**.
 
 **Rumus:**
+![image](https://github.com/user-attachments/assets/0da30e64-da71-4106-a1ef-ac6cc8b4935f)
 
-\[
-s = \sqrt{s^2} = \sqrt{\frac{\sum (x_i - \bar{x})^2}{n - 1}}
-\]
-
-**Contoh:**  
-Dari variance sebelumnya \(s^2 = 4\), maka:
-\[
-s = \sqrt{4} = 2
-\]
-
-**Keunggulan:**  
-- Satuan sama dengan data asli  
-- Banyak digunakan dalam analisis statistik lanjutan
 
 ---
 
