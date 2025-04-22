@@ -21,17 +21,8 @@ Histogram adalah grafik batang yang menunjukkan **frekuensi data** dalam **kelas
 
 Misalkan data tinggi badan 100 siswa dibagi dalam interval:
 
-```
-Frekuensi
-   ▲
-  20|         ▓▓▓▓▓▓
-  15|         ▓▓▓▓▓▓▓▓▓
-  10|    ▓▓▓▓▓▓▓▓▓▓▓▓▓
-   5| ▓▓▓▓▓▓▓▓▓
-   0|_________________________________
-     150-155 156-160 161-165 166-170
-           Tinggi Badan (cm)
-```
+![image](https://github.com/user-attachments/assets/68539b3a-3ebd-45ec-824a-74b86597f94f)
+
 
 - Setiap batang menunjukkan jumlah siswa dalam rentang tinggi tertentu.
 - Tinggi batang mewakili frekuensi data dalam interval tersebut.
@@ -61,6 +52,7 @@ Nilai skewness biasanya dianggap normal jika berada di antara -2 sampai +2[1].
 ---
 
 ### 📈 Ilustrasi Bentuk Skewness
+![image](https://github.com/user-attachments/assets/bacf4041-f31f-4917-ae38-73bebe7f1fba)
 
 | Jenis Skewness     | Bentuk Histogram                         | Ciri-ciri Utama                    |
 |--------------------|------------------------------------------|------------------------------------|
