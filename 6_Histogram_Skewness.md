@@ -91,19 +91,3 @@ Keduanya saling melengkapi untuk:
 1. Ghozali, I. (2016). *Aplikasi Analisis Multivariate dengan Program IBM SPSS 23*. Semarang: Badan Penerbit Universitas Diponegoro.  
 2. Populix.co, *Skewness: Penjelasan, Jenis, dan Rumus*.  
 3. Accounting Binus, *Memahami Nilai Skewness (Ukuran Kemiringan) dalam Statistik Deskriptif*.  
-
----
-
-Jika Anda ingin, saya dapat membantu membuat file `README.md` lengkap dengan ilustrasi visual histogram dan skewness dalam format gambar atau ASCII art untuk dokumentasi Anda.
-
-Citations:
-[1] https://accounting.binus.ac.id/2021/08/12/memahami-nilai-skewness-ukuran-kemiringan-dalam-statistik-deskriptif/
-[2] https://info.populix.co/articles/skewness-adalah/
-[3] https://repository.universitaspahlawan.ac.id/1176/1/statistik%20deskriptif.pdf
-[4] https://www.smartstat.info/materi/statistika/statistik-deskriptif.html
-[5] https://eriskusnadi.com/2008/12/11/statistik-deskriptif-dengan-spss/
-[6] https://www.youtube.com/watch?v=zj2LjUTsVgo
-[7] https://www.youtube.com/watch?v=YjNdBaNwG-o
-[8] https://www.smartstat.info/materi/statistika/statistik-deskriptif/statistika-deskriptif.html
-[9] https://hmpsstatistikafmipaunm.com/2021/05/31/mengenal-statistik-deskriptif-dan-statistik-inferensial-serta-penerapannya-dalam-penelitian/
-[10] https://eprints.uty.ac.id/15053/2/Naskah%20Statistik%20Deskriptif-ISBN-FINAL.pdf
